@@ -1,6 +1,6 @@
-### Benjamin Carlisle Spotswood
+### Hi 👋  I'm Ben Spotswood
 
-Experienced in Ruby on Rails and JavaScript-based programming with a background in data analysis. I'm interested in building projects in React, Ruby, Rails, and R. In my downtime, I enjoy creating baseball analytics projects, learning Jiu Jitsu, playing music, and sourdough baking. 
+I'm a Full-stack Software Developer experienced in Ruby on Rails and JavaScript-based programming with a background in data analysis. I'm interested in building projects in React, Ruby, Rails, and R. In my downtime, I enjoy creating baseball analytics projects, learning Jiu Jitsu, playing music, and sourdough baking. 
 
 Feel free to reach out, and be sure to check out my blog to see what I'm working on.
 
@@ -10,8 +10,13 @@ Feel free to reach out, and be sure to check out my blog to see what I'm working
 
 - [Learn R With Baseball Data: Top First Basemen Hitters of 2021 (In Hot Weather)](https://bcspotswood.medium.com/learn-r-with-baseball-data-top-first-basemen-hitters-of-2021-in-hot-weather-6b61eac4717)
 
+### 2022 Goals
+- Create portfolio site
+- Get a job as a Developer
+- Create a Postgres Baseball Database
+
 ### Currently Learning
-- R, React, and Rails programming
+- R, React, Rails, Postgres, SQL programming
 
 ### Connect
 - [Medium Blog](https://bcspotswood.medium.com/)
