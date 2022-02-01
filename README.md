@@ -18,6 +18,6 @@ Feel free to reach out, and be sure to check out my blog to see what I'm working
 ### Currently Learning
 - R, React, Rails, Postgres, SQL programming
 
-### Connect
+### Connect with me
 - [Medium Blog](https://bcspotswood.medium.com/)
 - Twitter - [@ben_spotswood](https://twitter.com/Ben_Spotswood)
