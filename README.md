@@ -1,6 +1,6 @@
 ### Hi 👋  I'm Ben Spotswood
 
-Full-stack Software Developer experienced in Ruby on Rails and JavaScript-based programming with a background in data analysis. I'm interested in building projects in React, Ruby, Rails, and R. In my downtime, I enjoy creating baseball analytics projects, learning Jiu Jitsu, playing music, and sourdough baking. 
+Full-stack Software Developer experienced in Ruby on Rails and JavaScript-based programming with a background in data analysis. I'm interested in building projects in JavaScript, Ruby, Python, and R. In my downtime, I enjoy creating baseball analytics projects, learning Jiu Jitsu, and playing music.
 
 Feel free to reach out, and be sure to check out my blog to see what I'm working on.
 
